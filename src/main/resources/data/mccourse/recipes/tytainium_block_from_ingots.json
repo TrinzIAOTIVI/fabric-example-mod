@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mccourse:tytainium_ingot"
+    }
+  },
+  "result": {
+    "item": "mccourse:tytainium_block"
+  }
+}

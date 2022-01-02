@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:orichalcum_ore",
+    "mccourse:orichalcum_block",
+    "mccourse:raw_orichalcum_block",
+    "mccourse:deepslate_orichalcum_ore",
+    "mccourse:tytainium_ore"
+  ]
+}

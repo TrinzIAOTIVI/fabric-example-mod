@@ -1,0 +1,14 @@
+{
+  "type": "mccourse:dehydrator",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "output": {
+    "item": "mccourse:jerky"
+  }
+}

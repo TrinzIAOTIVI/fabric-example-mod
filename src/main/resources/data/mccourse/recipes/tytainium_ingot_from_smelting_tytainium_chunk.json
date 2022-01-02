@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mccourse:tytainium_chunk"
+  },
+  "result": "mccourse:tytainium_ingot",
+  "experience": 0.5,
+  "cookingtime": 130
+}

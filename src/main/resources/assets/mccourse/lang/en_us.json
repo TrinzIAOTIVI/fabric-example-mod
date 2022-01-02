@@ -1,0 +1,55 @@
+{
+
+  "item.mccourse.orichalcum_ingot": "Orichalcum Ingot",
+  "item.mccourse.orichalcum_nugget": "Orichalcum Nugget",
+  "item.mccourse.raw_orichalcum": "Raw Orichalcum",
+  "item.mccourse.coal_sliver": "Coal Sliver",
+  "item.mccourse.tytainium_ingot": "Tytainium Ingot",
+  "item.mccourse.tytainium_chunk": "Chunk of Tytainium",
+
+
+  "item.mccourse.tytainium_pickaxe": "Tytainium Pickaxe",
+  "item.mccourse.tytainium_axe": "Tytainium Axe",
+  "item.mccourse.tytainium_hoe": "Tytainium Hoe",
+  "item.mccourse.tytainium_shovel": "Tytainium Shovel",
+  "item.mccourse.tytainium_sword": "Tytainium Sword",
+  "item.mccourse.dowsing_rod": "Dowsing Rod",
+
+  "item.mccourse.turnip": "Turnip",
+  "item.mccourse.jerky": "Jerky",
+  "item.mccourse.beef_jerky": "Beef Jerky",
+  "item.mccourse.mutton_jerky": "Mutton Jerky",
+  "item.mccourse.porkchop_jerky": "Pork Jerky",
+
+  "block.mccourse.orichalcum_block": "Orichalcum Block",
+  "block.mccourse.orichalcum_ore": "Orichalcum Ore",
+  "block.mccourse.deepslate_orichalcum_ore": "Deepslate Orichalcum Ore",
+  "block.mccourse.raw_orichalcum_ore": "Raw Orichalcum Block",
+  "block.mccourse.speedy_block": "Speedy Block",
+  "block.mccourse.orichalcum_stairs": "Orichalcum Stairs",
+  "block.mccourse.orichalcum_slab": "Orichalcum Slab",
+  "block.mccourse.orichalcum_button": "Orichalcum Button",
+  "block.mccourse.orichalcum_pressure_plate": "Orichalcum Pressure Plate",
+  "block.mccourse.orichalcum_fence": "Orichalcum Fence",
+  "block.mccourse.orichalcum_fence_gate": "Orichalcum Fence Gate",
+  "block.mccourse.orichalcum_wall": "Orichalcum Wall",
+  "block.mccourse.cherry_blossom_door": "Cherry Blossom Door",
+  "block.mccourse.cherry_blossom_trapdoor": "Cherry Blossom Trapdoor",
+  "block.mccourse.tytainium_ore": "Tytainium Ore",
+  "block.mccourse.tytainium_block": "Tytainium Block",
+  "block.mccourse.dehydrator": "Dehydrator",
+
+
+
+
+
+  "itemGroup.mccourse.course":"Course Tab",
+
+
+
+  "item.mccourse.dowsing_rod.no_valuables": "Nothing of value found!",
+
+  "item.mccourse.dowsing_rod.tooltip": "Press §eShift§r for more information",
+  "item.mccourse.dowsing_rod.tooltip.shift": "Right Click to find valuables."
+
+}
